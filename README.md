@@ -25,7 +25,5 @@
 <br>
 
 ### 📊 GitHub Stats:
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHF1&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHF1&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/PedroHF1/github-readme-stats)
-</div>

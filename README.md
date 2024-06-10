@@ -3,10 +3,14 @@
 </h1>
 
 <br>
+
 <div align="center">
  🌱 Cursando Ensino Superior em Sistemas para Internet.
+    <br>
  😉 Atualmente estudando area de front end.
 </div>
+
+<br>
 
 ### 📱 Social:
 <div align="center">

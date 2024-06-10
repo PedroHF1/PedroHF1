@@ -3,9 +3,10 @@
 </h1>
 
 <br>
-
-- 🌱 Cursando Ensino Superior em Sistemas para Internet.
-- 😉 Atualmente estudando area de front end.
+<div align="center">
+ 🌱 Cursando Ensino Superior em Sistemas para Internet.
+ 😉 Atualmente estudando area de front end.
+</div>
 
 ### 📱 Social:
 <div align="center">
@@ -19,7 +20,7 @@
 ### 💻 Tech Stack:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,c++,java,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,cpp,java,mysql,postgres" /><br>
 </div>
 
 <br>

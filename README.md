@@ -12,8 +12,8 @@
 
 <br>
 
-### 📱 Social:
 <div align="center">
+### 📱 Social:
 <a href="https://www.linkedin.com/in/pedro-henrique-ferreira-bbaa67245/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
 <a href="mailto:dragcraft11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
@@ -21,8 +21,8 @@
 
 <br>
 
-### 💻 Tech Stack:
 <div align="center">
+### 💻 Tech Stack:
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,cpp,java,mysql,postgres" /><br>
 </div>

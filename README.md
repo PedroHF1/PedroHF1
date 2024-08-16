@@ -30,6 +30,6 @@
 <br>
 
 <div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=PedroHF1&show_icons=true&theme=highcontrast" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHF1&layout=compact&show_icons=true&theme=highcontrast" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=PedroHF1&show_icons=true&theme=highcontrast" />
 </div>
